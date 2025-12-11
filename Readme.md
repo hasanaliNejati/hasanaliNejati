@@ -1,8 +1,8 @@
 # Hi, I'm Hasanali Najati 👋
 
-Unity developer and CEO of Morvarid Studio, passionate about creating interactive experiences and games. Always learning and building. 🎮
+Unity developer and CEO of Morvarid Studio, passionate about creating interactive experiences and games. Always learning and building.
 
-## 🌈 Skills
+## Skills
 
 ### Game Development
 
@@ -26,10 +26,10 @@ Unity developer and CEO of Morvarid Studio, passionate about creating interactiv
 
 ## ✨ Other things
 
-* CEO of Morvarid Studio. 🏢
-* Favorite programming language: C#. 🎯
+* CEO of Morvarid Studio. 
+* Favorite programming language: C#. 
 * Favorite technology: Unity.
-* Passion: Game development and creating immersive experiences. 🎮
-* Interest: Physics. ⚛️
+* Passion: Game development and creating immersive experiences. 
+* Interest: Physics. 
 
 ---
